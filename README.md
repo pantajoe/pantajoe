@@ -14,4 +14,4 @@ that I greatly value simplicity and an awesome DX with regards to my tooling, so
 
 #### My top-used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantajoe&layout=compact&theme=catppuccin_latte)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantajoe&layout=compact&theme=catppuccin_latte)](https://github.com/pantajoe)
