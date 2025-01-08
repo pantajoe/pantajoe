@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 
-My name is Joe and I'm currently the Lead Software Engineer at [Mate](https://mate-studio.com).
+My name is Joe and I'm currently a Senior Backend Engineer at [charles](https://hello-charles.com).
 
 I've been working in web development for a little bit over 7 years now. I love DX, Monads, and TypeScript. Starting out with Ruby on Rails,
 I've moved professionally towards TypeScript, React, and Nest.js. While I genuinely love TypeScript and React, I've learned
