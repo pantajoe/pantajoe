@@ -2,7 +2,7 @@
 
 My name is Joe and I'm currently a Senior Backend Engineer at [charles](https://hello-charles.com).
 
-I've been working in web development for a little bit over 7 years now. I love DX, Monads, and TypeScript. Starting out with Ruby on Rails,
+I've been working in web development for a little bit over 8 years now. I love DX, Monads, and TypeScript. Starting out with Ruby on Rails,
 I've moved professionally towards TypeScript, React, and Nest.js. While I genuinely love TypeScript and React, I've learned
 that I greatly value simplicity and an awesome DX with regards to my tooling, so for my private projects I tend to use Vue.js and Ruby on Rails.
 
